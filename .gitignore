@@ -1,0 +1,19 @@
+# Project exclude paths
+/.idea/
+/.gradle/
+/Simple Tic-Tac-Toe/Fight/task/build/
+/Simple Tic-Tac-Toe/Fight/task/out/
+/Simple Tic-Tac-Toe/Fight/task/out/production/classes/
+/Simple Tic-Tac-Toe/First move/task/build/
+/Simple Tic-Tac-Toe/First move/task/out/
+/Simple Tic-Tac-Toe/First move/task/out/production/classes/
+/Simple Tic-Tac-Toe/task/build/
+/Simple Tic-Tac-Toe/task/out/
+/Simple Tic-Tac-Toe/task/out/production/classes/
+/Simple Tic-Tac-Toe/The user is the gamemaster/task/build/
+/Simple Tic-Tac-Toe/The user is the gamemaster/task/out/
+/Simple Tic-Tac-Toe/The user is the gamemaster/task/out/production/classes/
+/Simple Tic-Tac-Toe/Welcome to the battlefield/task/build/
+/Simple Tic-Tac-Toe/What's up on the field/task/build/
+/Simple Tic-Tac-Toe/What's up on the field/task/out/
+/Simple Tic-Tac-Toe/What's up on the field/task/out/production/classes/
